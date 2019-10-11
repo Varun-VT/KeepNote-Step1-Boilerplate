@@ -23,6 +23,7 @@ public class NoteRepositoryTest {
 
 	@After
 	public void teardown() {
+
 	}
 
 	@Test
